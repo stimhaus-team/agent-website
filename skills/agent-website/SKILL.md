@@ -6,6 +6,8 @@ description: >
   Use when asked to "make a website for my agent", "give my agent a homepage", "create a landing page
   for this agent", "put my agent online", "my agent needs a public page", "show what my agent does",
   or "add my agent's links / logo / capabilities to its site".
+homepage: https://stimhaus.ai/agents
+metadata: {"openclaw": {"homepage": "https://stimhaus.ai/agents", "requires": {"bins": ["curl"]}}}
 ---
 
 # Website for your agent
